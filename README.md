@@ -1,20 +1,5 @@
 ## Hi there, I'm Lucas! 👋
 
-```js
-const name = "Lucas";
-let age = 26;
-let goal = "Become a full stack developer";
-let isGoalCompleted = false;
-
-const doMyBest = () => {
-  const plan = ["Study", "Practice", "Read doc", "Review", "Repeat"];
-  console.log("Working on:", plan.join(", "));
-}
-
-while (isGoalCompleted !== true) {
-  doMyBest();
-}
-```
 <table border="0" align="center" cellpadding="10">
   <tr>
     <td align="center" width="324" rowspan="3" border="0">
