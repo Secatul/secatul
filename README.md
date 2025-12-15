@@ -6,12 +6,12 @@
       <img src="city.jpg" style="width: 800px;">
     </td>
     <td align="center" width="440" border="0">
-      <img src="https://github-readme-stats.vercel.app/api?username=lcscostadev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=secatul&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="440" border="0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscostadev&layout=compact&langs_count=7&theme=gotham" style="width:440px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secatul&layout=compact&langs_count=7&theme=gotham" style="width:440px;">
     </td>
   </tr>
   <!-- Nova linha -->
