@@ -15,7 +15,7 @@
 
 ---
 
-## 🔐 Cybersecurity Studies
+## Cybersecurity Studies
 
 📓 Writeups:
 - 
